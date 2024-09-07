@@ -1,4 +1,4 @@
 /*隐藏我的手机聊天窗口中右上角的的导入手机相册功能*/
-.panel-header__action {
-  display: none;
+[data-v-7bfa56a1].panel-header__action > [data-v-3ce2bb9f].dataline-top-bars {
+	display: none;
 }

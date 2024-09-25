@@ -1,4 +1,11 @@
-/*隐藏我的手机聊天窗口中右上角的的导入手机相册功能*/
+/* ==UserStyle==
+@name          Hide the function of importing phone albums
+@preprocessor   transitio
+@description    隐藏我的手机聊天窗口中右上角的导入手机相册功能
+@version        0.1.0
+@homepageURL    https://github.com/YatFanLan/Hide-the-Import-Phone-Album-feature-in-the-upper-right-corner-of-the-My-Phone-Chat-window
+@author         YatFanLan 
+==/UserStyle== */
 [data-v-7bfa56a1].draggable-view__container>[data-v-7bfa56a1].panel-header__action > [data-v-3ce2bb9f].dataline-top-bars {
 	display: none;
 }
